@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/ColorScheme - Future Funk Tweaked/Future Funk.tmTheme",
+	"detect_slow_plugins": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Nil.sublime-theme"
+}
