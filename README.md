@@ -4,7 +4,11 @@ SublimeTextSettings
 2. From the SublimeText packages folder, run...
   
   git clone https://github.com/pandapaul/SublimeTextSettings 'temp'
+
   mv temp/.git User/.git
+  
   rm -rf temp
+  
   cd User
+  
   git checkout -f
